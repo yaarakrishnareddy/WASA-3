@@ -7,5 +7,6 @@ public class Sampletest {
 public void Demo()
 {
 	System.out.println("Samples");
+	System.out.println("Sample2");
 }
 }

@@ -10,6 +10,6 @@ public void Demo()
 	System.out.println("Sample2");
 	System.out.println("hii saikrishna");
 	System.out.println("hello krishna");
-	System.out.println("kittu");
+	System.out.println("kittu1");
 }
 }

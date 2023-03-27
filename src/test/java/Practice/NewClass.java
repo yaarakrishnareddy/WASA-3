@@ -8,6 +8,7 @@ public class NewClass {
 	public void main()
 	{
 		System.out.println("this is jogarao");
+		System.out.println("hi skrishna");
 	}
 
 }

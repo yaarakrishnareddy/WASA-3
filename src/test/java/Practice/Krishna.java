@@ -7,7 +7,7 @@ public class Krishna {
 	@Test
 	public void main()
 	{
-		System.out.println("hii keishna");
+		System.out.println("hii krishna");
 	}
 	
 }
